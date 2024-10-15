@@ -1,1 +1,1 @@
-# WhisperChat Smart Contracts
+# Casher Smart Contracts
